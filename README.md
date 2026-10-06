@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi! I'm Haruka 👋
 
-<!--
-**HarukaTakenaka/HarukaTakenaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Ph.D. student in [Prof. Matt Sigman's lab](https://www.sigmanlab.com) at the University of Utah.
+My research combines data science, cheminformatics, and computational chemistry to gain mechanistic insight into and predict reactivity in Ni catalysis. I also work at the bench, so I bridge computational and experimental chemistry. 
 
-Here are some ideas to get you started:
+### 🛠 Tools
+Python · RDKit · scikit-learn · Gaussian · xTB etc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+Programming in Python, with Claude as my coding assistant
+
+### 📫 Contact
+- Email: haruka.takenaka@utah.edu
+- LinkedIn: [https://www.linkedin.com/in/haruka-takenaka/]
