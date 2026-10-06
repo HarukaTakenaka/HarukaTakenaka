@@ -11,4 +11,4 @@ Programming in Python, with Claude as my coding assistant
 
 ### 📫 Contact
 - Email: haruka.takenaka@utah.edu
-- LinkedIn: [https://www.linkedin.com/in/haruka-takenaka/]
+- [LinkedIn](https://www.linkedin.com/in/haruka-takenaka/)
