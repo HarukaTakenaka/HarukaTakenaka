@@ -1,6 +1,6 @@
 ## Hi! I'm Haruka 👋
 
-I'm a Ph.D. student in [Prof. Matt Sigman's lab](https://www.sigmanlab.com) at the University of Utah.
+I'm a Ph.D. student in [Prof. Matt Sigman's lab](https://www.sigmanlab.com) [GitHub](https://github.com/SigmanGroup) at the University of Utah.
 My research combines experimental, electroanalytical (mostly cyclic voltammetry), computational chemistry, data science, and cheminformatics to gain mechanistic insight into and predict reactivity in Ni catalysis. I work with Claude to code. 
 
 ### 📄 Publications
